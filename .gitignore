@@ -51,4 +51,15 @@ project.log
 library/
 local/
 
+start_project\library\imports\*\
+temp\
+*.log
+layout.windows.json
+local\*
+layout.windows.json
+bundle.project.js
+project.log
+library\
+local\
+
 *.swp
