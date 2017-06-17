@@ -75,3 +75,8 @@ start_project/local/
 start_project/libary/
 start_project/library/uuid-to-mtime.json
 start_project/library/bundle.project.js
+
+start_project\local\*
+start_project\libary\*
+start_project\local\
+start_project\libary\
