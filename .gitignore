@@ -48,6 +48,8 @@ local/*
 layout.windows.json
 bundle.project.js
 project.log
+*/library/*
+*/local/*
 library/
 local/
 
@@ -61,5 +63,7 @@ bundle.project.js
 project.log
 library\
 local\
+*\library\*
+*\local\*
 
 *.swp
