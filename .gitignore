@@ -45,3 +45,10 @@ temp/
 *.log
 layout.windows.json
 local/*
+layout.windows.json
+bundle.project.js
+project.log
+library/
+local/
+
+*.swp

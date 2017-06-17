@@ -1,53 +1,54 @@
-2017-06-17T07:25:23.350Z - normal: Load ~/.CocosCreator/settings.json
-2017-06-17T07:25:23.353Z - normal: checking language setting...
-2017-06-17T07:25:23.353Z - normal: Language: en
-2017-06-17T07:25:24.646Z - success: protocol editor-framework registered
-2017-06-17T07:25:24.646Z - success: protocol app registered
-2017-06-17T07:25:24.646Z - success: protocol theme registered
-2017-06-17T07:25:24.646Z - success: protocol profile registered
-2017-06-17T07:25:24.646Z - success: protocol packages registered
-2017-06-17T07:25:24.646Z - success: protocol unpack registerred
-2017-06-17T07:25:24.646Z - success: protocol disable-commonjs registerred
-2017-06-17T07:25:25.805Z - normal: connected!
-2017-06-17T07:25:25.806Z - normal: Check project D:\code\cocoscreator\cocoscreator-testproject\start_project
-2017-06-17T07:25:25.808Z - normal: Initializing Cocos2d
-2017-06-17T07:25:25.944Z - normal: Initializing Asset Database
-2017-06-17T07:25:25.966Z - success: protocol uuid registerred
-2017-06-17T07:25:25.967Z - success: protocol db registerred
-2017-06-17T07:25:25.967Z - success: protocol thumbnail registerred
-2017-06-17T07:25:25.967Z - normal: Loading editor/builtin packages
-2017-06-17T07:25:25.980Z - success: anysdk loaded
-2017-06-17T07:25:26.075Z - success: assets loaded
-2017-06-17T07:25:26.076Z - success: builder loaded
-2017-06-17T07:25:26.078Z - success: hierarchy loaded
-2017-06-17T07:25:26.080Z - success: inspector loaded
-2017-06-17T07:25:26.081Z - success: keystore loaded
-2017-06-17T07:25:26.082Z - success: node-library loaded
-2017-06-17T07:25:26.083Z - success: package-asset loaded
-2017-06-17T07:25:26.084Z - success: preferences loaded
-2017-06-17T07:25:26.093Z - success: project-importer loaded
-2017-06-17T07:25:26.094Z - success: project-settings loaded
-2017-06-17T07:25:26.095Z - success: ui-kit loaded
-2017-06-17T07:25:26.096Z - success: ui-grid loaded
-2017-06-17T07:25:26.098Z - success: scene loaded
-2017-06-17T07:25:26.100Z - success: sprite-editor loaded
-2017-06-17T07:25:26.102Z - success: store loaded
-2017-06-17T07:25:26.104Z - success: timeline loaded
-2017-06-17T07:25:26.105Z - normal: Loading builtin packages
-2017-06-17T07:25:26.106Z - success: asset-db-debugger loaded
-2017-06-17T07:25:26.107Z - success: code-editor loaded
-2017-06-17T07:25:26.107Z - success: color-picker loaded
-2017-06-17T07:25:26.109Z - success: console loaded
-2017-06-17T07:25:26.110Z - success: package-manager loaded
-2017-06-17T07:25:26.112Z - success: tester loaded
-2017-06-17T07:25:26.113Z - success: ui-kit-preview-extra loaded
-2017-06-17T07:25:26.115Z - success: ui-kit-preview loaded
-2017-06-17T07:25:26.116Z - success: ui-tree loaded
-2017-06-17T07:25:26.147Z - normal: Initializing project D:\code\cocoscreator\cocoscreator-testproject\start_project
-2017-06-17T07:25:26.148Z - normal: Loading packages
-2017-06-17T07:25:26.150Z - normal: Watching packages
-2017-06-17T07:25:26.159Z - normal: Run Application
-2017-06-17T07:25:27.260Z - success: preview server running at http://localhost:7456
-2017-06-17T07:25:27.260Z - normal: Compiling scripts...
-2017-06-17T07:25:28.254Z - normal: Compiled project javascript file successfully
-2017-06-17T07:25:30.168Z - normal: 1.5.0
+2017-06-17T07:28:26.514Z - normal: Load ~/.CocosCreator/settings.json
+2017-06-17T07:28:26.520Z - normal: checking language setting...
+2017-06-17T07:28:26.521Z - normal: Language: en
+2017-06-17T07:28:26.830Z - success: protocol editor-framework registered
+2017-06-17T07:28:26.830Z - success: protocol app registered
+2017-06-17T07:28:26.830Z - success: protocol theme registered
+2017-06-17T07:28:26.830Z - success: protocol profile registered
+2017-06-17T07:28:26.831Z - success: protocol packages registered
+2017-06-17T07:28:26.833Z - success: protocol unpack registerred
+2017-06-17T07:28:26.833Z - success: protocol disable-commonjs registerred
+2017-06-17T07:28:29.830Z - normal: failed to connect login server due to request timeout
+2017-06-17T07:28:29.831Z - normal: Check project /Users/stew/Downloads/tutorial-first-game-master/cocoscreator-testproject/start_project
+2017-06-17T07:28:29.833Z - normal: Initializing Cocos2d
+2017-06-17T07:28:30.018Z - normal: Initializing Asset Database
+2017-06-17T07:28:30.047Z - success: protocol uuid registerred
+2017-06-17T07:28:30.048Z - success: protocol db registerred
+2017-06-17T07:28:30.048Z - success: protocol thumbnail registerred
+2017-06-17T07:28:30.048Z - normal: Loading editor/builtin packages
+2017-06-17T07:28:30.064Z - success: anysdk loaded
+2017-06-17T07:28:30.170Z - success: assets loaded
+2017-06-17T07:28:30.173Z - success: builder loaded
+2017-06-17T07:28:30.177Z - success: hierarchy loaded
+2017-06-17T07:28:30.181Z - success: inspector loaded
+2017-06-17T07:28:30.182Z - success: keystore loaded
+2017-06-17T07:28:30.186Z - success: node-library loaded
+2017-06-17T07:28:30.187Z - success: package-asset loaded
+2017-06-17T07:28:30.189Z - success: preferences loaded
+2017-06-17T07:28:30.200Z - success: project-importer loaded
+2017-06-17T07:28:30.203Z - success: project-settings loaded
+2017-06-17T07:28:30.206Z - success: ui-kit loaded
+2017-06-17T07:28:30.210Z - success: ui-grid loaded
+2017-06-17T07:28:30.214Z - success: scene loaded
+2017-06-17T07:28:30.215Z - success: sprite-editor loaded
+2017-06-17T07:28:30.218Z - success: store loaded
+2017-06-17T07:28:30.223Z - success: timeline loaded
+2017-06-17T07:28:30.223Z - normal: Loading builtin packages
+2017-06-17T07:28:30.227Z - success: asset-db-debugger loaded
+2017-06-17T07:28:30.228Z - success: code-editor loaded
+2017-06-17T07:28:30.229Z - success: color-picker loaded
+2017-06-17T07:28:30.233Z - success: console loaded
+2017-06-17T07:28:30.236Z - success: package-manager loaded
+2017-06-17T07:28:30.244Z - success: sdkbox loaded
+2017-06-17T07:28:30.248Z - success: tester loaded
+2017-06-17T07:28:30.252Z - success: ui-kit-preview-extra loaded
+2017-06-17T07:28:30.257Z - success: ui-kit-preview loaded
+2017-06-17T07:28:30.261Z - success: ui-tree loaded
+2017-06-17T07:28:30.303Z - normal: Initializing project /Users/stew/Downloads/tutorial-first-game-master/cocoscreator-testproject/start_project
+2017-06-17T07:28:30.305Z - normal: Loading packages
+2017-06-17T07:28:30.310Z - normal: Watching packages
+2017-06-17T07:28:30.322Z - normal: Run Application
+2017-06-17T07:28:31.618Z - success: preview server running at http://localhost:7456
+2017-06-17T07:28:31.618Z - normal: Compiling scripts...
+2017-06-17T07:28:32.921Z - normal: Compiled project javascript file successfully
+2017-06-17T07:28:35.618Z - normal: 1.5.0
