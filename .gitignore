@@ -42,3 +42,6 @@ luac.out
 .DS_Store
 start_project/library/imports/*/
 temp/
+*.log
+layout.windows.json
+local/*
